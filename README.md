@@ -83,6 +83,9 @@ The relationship between a player's jersey number and being injured is relativel
 
 <img width="1035" alt="Screenshot 2024-06-17 at 7 07 45 PM" src="https://github.com/JMiceli7/Football_Injuries/assets/139254725/0cae9d5b-2aa7-44b0-97b1-b6873dd52da3">
 
+
+<img width="419" alt="Screenshot 2024-06-17 at 7 48 05 PM" src="https://github.com/JMiceli7/Football_Injuries/assets/139254725/a795698f-6aee-4233-a370-845f13be2eeb">
+
  
 Question 4: Which position has the highest chance of being concussed?
  
